@@ -1,2 +1,9 @@
-
-// Write your code here
+const num1 = 31
+const num2 = 2
+let multiply = num1 * num2
+let random = Math.floor(Math.random()) + 1
+const num3 = 24
+const num4 = 20
+let mod = num3 % num4
+const numbers = [1, 5, 10, 15, 20]
+let max = Math.max(...numbers)
